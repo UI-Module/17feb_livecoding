@@ -1,0 +1,30 @@
+* {margin: 0;
+    padding: 0; 
+    box-sizing: border-box;}
+
+header { width: 50%;
+margin: 0 auto;}
+
+li {list-style: none;
+display: inline-block;
+padding: 10px;}
+
+.article-sect1 {width: 45%;}
+
+.article-sect {width: 45%;}
+
+.aside-sect2 div, aside {display: inline-block;width: 45%;}
+
+code {
+    background-color: lightblue;
+    padding: 5px;
+}
+
+footer {
+    margin: 120px auto;
+    padding: 15px;
+    background-color: rgb(0, 255, 213);
+    text-align: center;
+}
+
+h2,h3 {margin: 10px;}
